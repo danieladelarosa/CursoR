@@ -1,0 +1,379 @@
+ID,Nombre_Cliente,Apellido_Cliente,Genero,RFC_Cliente,Nivel.Educativo,Entidad.Federativa,Delegación,Colonia,Latitud,Longitud,Fecha_Suscripción,Servicio,Tipo_Servicio,Num_Suspensiones,Cantidad_Quejas,Cantidad_meses_sin_pagar,Factura_Mensual
+1,Mariem,Viva,M,VUQC826914,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,7/12/2016 0:00,Internet,Conectividad WiFi,1,1,4,52.78
+2,Saida,De Santana,M,EKMT845972,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,6/12/2016 14:44,Software,Aspel COI,0,0,4,69.59
+3,Samir,Famadas,H,OHLJ463897,Otro,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,6/12/2016 7:53,Crédito y Equipamiento,Equipos Multilínea,0,0,4,44.15
+4,Sufian,De Toledo,H,NEGS865439,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,6/12/2016 5:53,Crédito y Equipamiento,Crédito Inbursa,0,0,0,94.97
+5,Laila,Malaguilla,M,HXOR598274,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,5/12/2016 8:28,Internet,Conectividad WiFi,0,2,1,52.78
+6,Salma,Gasquet,M,QLKO285940,Otro,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,4/12/2016 23:10,Internet,Infinitum sin Paquete,0,0,4,89.26
+7,Farida,Rujano,M,DCBT194736,Otro,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,4/12/2016 23:07,Software,Aspel NOI,0,0,4,64.77
+8,Mina,Auza,M,GRWZ435902,Universitario,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,4/12/2016 14:06,Nube Telmex,Activa tus herramientas,0,1,1,44.99
+9,Erhimo,Ancizar,M,QCVL584169,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,4/12/2016 9:46,Internet,Infinitum sin Paquete,0,0,1,89.26
+10,Dunia,Peralias,M,CEKH058346,Secundario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,4/12/2016 4:00,Software,Aspel SAE,0,0,1,82.2
+11,Hamed,Barjacoba,H,HMYL940351,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,3/12/2016 17:15,Comunicación,Audioconferencia,0,1,0,51.06
+12,Habiba,Villafuertes,M,LTCJ120768,Universitario,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,3/12/2016 16:42,Software,Aspel SAE,0,1,2,82.2
+13,Dina,Boher,M,QUCW207684,Master/PhD,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,3/12/2016 14:16,Nube Telmex,Correo Negocio,0,2,0,95.33
+14,Yusef,Danus,H,FIJS152678,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,3/12/2016 10:35,Software,Aspel SAE,0,1,4,82.2
+15,Fátima Sohora,Callon,M,BIYA936102,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,2/12/2016 23:33,Internet,Conectividad WiFi,2,0,4,52.78
+16,Nabil,Estopañan,H,LNAC230964,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,2/12/2016 21:47,Internet,Infinitum sin Paquete,0,0,1,89.26
+17,Adam,Maseres,H,HVFD948172,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,2/12/2016 20:35,Crédito y Equipamiento,Crédito Inbursa,1,1,1,94.97
+18,Sohora,Deleito,M,OLVG840612,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,2/12/2016 19:38,Nube Telmex,Correo Negocio,0,2,0,95.33
+19,Soraya,Ergueta,M,SMWN197863,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,2/12/2016 18:20,Internet,Conectividad WiFi,0,2,1,52.78
+20,Mimount,Sastriques,M,VOEC580374,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,2/12/2016 17:46,Comunicación,Planes de llamadas/minutos,0,1,1,92.7
+21,Samira,Carromero,M,LEJZ537982,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,2/12/2016 14:31,Internet,Conectividad WiFi,2,0,0,52.78
+22,Abdeselam,Comeras,H,RLQI231708,Universitario,Ciudad de México,Iztacalco,Santa Anita,19.4041255,-99.1206396,2/12/2016 12:13,Internet,Infinitum Puro Negocio,0,4,4,47.9
+23,Farah,Telles,M,ZKRB360574,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,2/12/2016 7:03,Internet,Infinitum en Paquete,0,2,2,87.26
+24,María África,Estarriaga,M,PAXE401367,Secundario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,2/12/2016 4:00,Software,Aspel COI,0,0,1,69.59
+25,Rahma,Peñamaria,M,YDHE241809,Master/PhD,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,1/12/2016 19:10,Internet,Conectividad WiFi,0,0,0,52.78
+26,Mimoun,Sabarich,H,HAEL548617,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,1/12/2016 18:06,Nube Telmex,Correo Negocio,2,0,1,95.33
+27,Karima,Carafi,M,JMNS958367,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,1/12/2016 12:59,Crédito y Equipamiento,Equipos para tu Negocio,0,0,1,98.04
+28,Mariam,Roqueñi,M,QVNL619058,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,1/12/2016 6:37,Crédito y Equipamiento,Crédito Inbursa,0,0,0,94.97
+29,Nora,Sandi,M,TCNI397518,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,1/12/2016 5:11,Internet,Infinitum sin Paquete,0,0,1,89.26
+30,Yamina,Bonavila,M,DJXE587029,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,30/11/2016 18:12,Crédito y Equipamiento,Equipos Multilínea,0,0,2,44.15
+31,María Fuencisla,Arnalot,M,ZFSL251904,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,30/11/2016 10:04,Crédito y Equipamiento,Equipos para tu Negocio,0,1,0,98.04
+32,Rachida,Melendreras,M,EUYG872610,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,30/11/2016 01:03,Internet,Infinitum sin Paquete,0,0,4,89.26
+33,Naima,Deval,M,SDRM635429,Universitario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,29/11/2016 23:50,Internet,Infinitum Puro Negocio,0,0,4,47.9
+34,Alí,Evia,H,PKAH274356,Master/PhD,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,29/11/2016 14:23,Crédito y Equipamiento,Equipos para tu Negocio,2,0,1,98.04
+35,Omar,Marabe,H,HYVU263910,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,29/11/2016 03:23,Internet,Infinitum en Paquete,1,0,0,87.26
+36,Fadma,Alfara,M,MVTR890654,Master/PhD,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,29/11/2016 02:06,Crédito y Equipamiento,Crédito Inbursa,0,0,2,94.97
+37,Karim,Musoles,H,SJFH341096,Secundario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,29/11/2016 00:56,Internet,Infinitum Puro Negocio,0,0,1,47.9
+38,Nadia,Ruiz de Aguirre,M,LGFN573689,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,28/11/2016 21:20,Crédito y Equipamiento,Equipos para tu Negocio,0,1,4,98.04
+39,Rachid,Giraut,H,CBPI675389,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,28/11/2016 19:19,Internet,Conectividad WiFi,0,0,2,52.78
+40,Sonsoles,Henar,M,ZRBG570348,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,28/11/2016 09:25,Internet,Infinitum sin Paquete,2,0,4,89.26
+41,Said,Jariego,H,NDVQ294607,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,28/11/2016 03:55,Crédito y Equipamiento,Equipos Multilínea,0,1,2,44.15
+42,Natividad,Retamino,M,XMZB869257,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,27/11/2016 22:19,Internet,Infinitum en Paquete,1,0,2,87.26
+43,África,Bastaros,M,QFJL763541,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,27/11/2016 14:03,Internet,Conectividad WiFi,1,2,4,52.78
+44,Yasmina,Jartin,M,OXLI975280,Master/PhD,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,27/11/2016 09:24,Comunicación,Planes de llamadas/minutos,2,0,1,92.7
+45,Aicha,Ondarza,M,WKMO480275,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,27/11/2016 08:56,Crédito y Equipamiento,Crédito Inbursa,0,0,1,94.97
+46,Bilal,Paret,H,KSDL054798,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,27/11/2016 08:25,Internet,Infinitum sin Paquete,0,1,0,89.26
+47,Abdelkader,Santaya,H,KCTR347586,Secundario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,27/11/2016 04:19,Crédito y Equipamiento,Equipos Multilínea,0,0,0,44.15
+48,Luis Angel,Antela,H,FAVZ807534,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,27/11/2016 01:48,Nube Telmex,Nube Telmex,2,0,1,93.83
+49,Hassan,Liboreiro,H,GJYC279618,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,27/11/2016 00:22,Internet,Infinitum sin Paquete,2,0,4,89.26
+50,María Sonsoles,Pasion,M,QYSL071852,Otro,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,26/11/2016 09:28,Internet,Infinitum sin Paquete,0,1,3,89.26
+51,Blanca,Grabuleda,M,LRND237615,Master/PhD,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,26/11/2016 02:59,Crédito y Equipamiento,Equipos Multilínea,1,2,1,44.15
+52,Malika,Fernandino,M,JWMU024937,Secundario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,26/11/2016 02:48,Internet,Infinitum Puro Negocio,4,0,1,47.9
+53,Mustafa,Cebas,H,SLYK324867,Otro,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,25/11/2016 18:52,Internet,Infinitum sin Paquete,1,0,2,89.26
+54,Celso,García de Jalon,H,UBLK716295,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,25/11/2016 17:11,Internet,Infinitum sin Paquete,0,0,1,89.26
+55,Agustina,Tablero,M,PELI019432,Master/PhD,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,25/11/2016 14:56,Internet,Conectividad WiFi,0,0,0,52.78
+56,Camilo,Chuchuca,H,NCMQ713906,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,25/11/2016 09:11,Nube Telmex,Activa tus herramientas,2,0,4,44.99
+57,Celsa,Inoriza,M,OEGK013749,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,25/11/2016 05:49,Internet,Conectividad WiFi,0,0,0,52.78
+58,Elisa,Olaskoaga,M,UIGB687120,Master/PhD,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,24/11/2016 20:25,Crédito y Equipamiento,Equipos para tu Negocio,0,2,4,98.04
+59,Inés,Sánchez Gallego,M,OPCY590284,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,24/11/2016 18:57,Internet,Infinitum en Paquete,2,1,3,87.26
+60,José Ángel,Licer,H,FNDW610258,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,24/11/2016 13:53,Internet,Infinitum Puro Negocio,0,0,4,47.9
+61,María Cruz,Troiteiro,M,EXLW506174,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,24/11/2016 09:48,Internet,Infinitum Puro Negocio,0,4,1,47.9
+62,Celia,Barria,M,KILW203759,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,24/11/2016 08:43,Internet,Conectividad WiFi,0,1,1,52.78
+63,Joel,Curay,H,VRAH925360,Secundario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,24/11/2016 02:14,Internet,Infinitum sin Paquete,1,0,0,89.26
+64,Merce,Montarelo,M,BKZH812543,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,24/11/2016 01:42,Internet,Infinitum sin Paquete,0,1,1,89.26
+65,Ahmed,Becana,H,MXYT459308,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,24/11/2016 01:05,Internet,Infinitum sin Paquete,0,1,4,89.26
+66,María Carme,Iturricastillo,M,JVYE716043,Otro,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,23/11/2016 19:00,Software,Aspel Facture,1,1,4,87.96
+67,Roger,Valda,H,VTNQ429568,Secundario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,23/11/2016 18:28,Internet,Infinitum sin Paquete,0,0,4,89.26
+68,Benito,Altimir,H,MNIR209316,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,23/11/2016 17:49,Crédito y Equipamiento,Crédito Inbursa,0,0,0,94.97
+69,Héctor,Cazo,H,JQDC594062,Otro,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,23/11/2016 16:29,Software,Aspel NOI,0,0,4,64.77
+70,Cristian,Crispi,H,WNCA591372,Universitario,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,23/11/2016 14:14,Software,Aspel COI,2,0,2,69.59
+71,María Llanos,Martínez de Pinillos,M,UQBG156984,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,23/11/2016 09:16,Internet,Conectividad WiFi,1,0,1,52.78
+72,María Prado,Nicas,M,ETLO392640,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,22/11/2016 13:06,Internet,Infinitum Puro Negocio,2,2,1,47.9
+73,Leyre,Podio,M,TNRC209718,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,22/11/2016 08:26,Internet,Conectividad WiFi,2,1,0,52.78
+74,Guadalupe,Sumay,M,TIOQ350986,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,21/11/2016 15:26,Internet,Infinitum sin Paquete,0,4,1,89.26
+75,Eduard,Bolonio,H,MPOL328970,Universitario,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,21/11/2016 09:54,Internet,Infinitum sin Paquete,0,0,4,89.26
+76,Olatz,Fontas,M,MGIV754932,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,21/11/2016 09:00,Internet,Infinitum en Paquete,0,0,4,87.26
+77,Ainara,Joaniquet,M,VMEJ316054,Secundario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,21/11/2016 04:03,Crédito y Equipamiento,Equipos Multilínea,0,0,4,44.15
+78,Arnau,Zazurca,H,XOUK749268,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,20/11/2016 22:50,Internet,Infinitum sin Paquete,0,0,2,89.26
+79,Enric,Relova,H,BXIL910287,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,20/11/2016 20:03,Internet,Infinitum Puro Negocio,4,1,1,47.9
+80,Elvira,Díaz de Mera,M,ORHF017459,Otro,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,20/11/2016 19:49,Comunicación,Planes de llamadas/minutos,0,0,0,92.7
+81,Aritz,Lale,H,DPBH493150,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,20/11/2016 17:12,Internet,Infinitum Puro Negocio,1,1,0,47.9
+82,Martí,Fiorito,H,ICXK582369,Secundario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,20/11/2016 15:59,Nube Telmex,Activa tus herramientas,0,0,4,44.99
+83,Pino,Abrisketa,M,DYGA153792,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,20/11/2016 02:15,Internet,Infinitum sin Paquete,1,0,0,89.26
+84,Carla,Herboso,M,TUXB308761,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,19/11/2016 14:48,Software,Aspel SAE,0,0,4,82.2
+85,Andoni,Sarasti,H,FKTB943582,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,19/11/2016 00:45,Internet,Conectividad WiFi,0,0,0,52.78
+86,Jonathan,Raviña,H,ZPOU258463,Master/PhD,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,18/11/2016 06:18,Crédito y Equipamiento,Equipos para tu Negocio,1,0,4,98.04
+87,Antonio Manuel,Bacardi,H,IPAW579840,Secundario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,17/11/2016 23:37,Crédito y Equipamiento,Equipos para tu Negocio,0,0,1,98.04
+88,Felipe,Bardelas,H,WJAG926487,Secundario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,17/11/2016 08:14,Comunicación,Planes de llamadas/minutos,0,1,2,92.7
+89,Rodrigo,Perin,H,JPXL914532,Secundario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,17/11/2016 00:05,Nube Telmex,Respaldo de Información,0,0,0,49.92
+90,Joseba,Sentamans,H,FWYE654013,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,16/11/2016 18:35,Comunicación,Audioconferencia,1,1,2,51.06
+91,Carmen Delia,Almudevar,M,TWHM942360,Secundario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,16/11/2016 12:33,Crédito y Equipamiento,Equipos Multilínea,0,1,0,44.15
+92,Miren,Isar,M,XWLN217869,Master/PhD,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,16/11/2016 11:53,Internet,Conectividad WiFi,0,1,1,52.78
+93,Juan María,Maspoch,H,ROSY379206,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,16/11/2016 05:32,Crédito y Equipamiento,Equipos Multilínea,0,0,1,44.15
+94,Idoia,Huayta,M,XZPJ347056,Master/PhD,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,16/11/2016 04:33,Internet,Conectividad WiFi,1,0,0,52.78
+95,Igor,Arkotxa,H,ZWET046793,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,15/11/2016 21:17,Internet,Infinitum en Paquete,1,0,4,87.26
+96,Irati,De Austria,M,RJVF053219,Secundario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,15/11/2016 16:10,Internet,Infinitum en Paquete,1,0,1,87.26
+97,Joaquina,Oruesagasti,M,JRPV473658,Otro,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,15/11/2016 10:59,Internet,Infinitum sin Paquete,2,0,1,89.26
+98,Ramona,Causo,M,NXWF075248,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,15/11/2016 01:46,Internet,Infinitum Puro Negocio,1,0,4,47.9
+99,Margalida,Sabuquillo,M,NDAT472830,Otro,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,14/11/2016 23:06,Internet,Infinitum Puro Negocio,1,0,1,47.9
+100,Gloria,Saenz de Viteri,M,IBVZ172345,Universitario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,14/11/2016 18:32,Internet,Infinitum sin Paquete,1,4,4,89.26
+101,Sagrario,Del Cano,M,MUAZ219607,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,14/11/2016 15:09,Internet,Infinitum en Paquete,0,0,4,87.26
+102,Victoria,De la Antonia,M,EMSF589047,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,14/11/2016 13:37,Internet,Infinitum Puro Negocio,2,0,2,47.9
+103,Maialen,Aixut,M,HNGX687153,Secundario,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,13/11/2016 23:52,Internet,Infinitum sin Paquete,1,0,0,89.26
+104,Iria,Aspuru,M,SHGB052637,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,13/11/2016 21:25,Internet,Infinitum sin Paquete,0,1,1,89.26
+105,Maider,Urreizti,M,MAZK384720,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,13/11/2016 20:00,Software,Aspel COI,0,1,0,69.59
+106,Bernardo,Cifres,H,WUYK016948,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,13/11/2016 13:19,Internet,Conectividad WiFi,2,4,2,52.78
+107,Ana Cristina,Ruiz de Austri,M,ZGCI039476,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,13/11/2016 11:58,Software,Aspel COI,2,0,4,69.59
+108,Juliana,Awan,M,LFTJ158643,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,13/11/2016 10:59,Nube Telmex,Respaldo de Información,2,0,1,49.92
+109,Aina,Mohamed Fadel,M,HZCU791205,Otro,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,13/11/2016 06:40,Internet,Conectividad WiFi,1,0,2,52.78
+110,Imanol,Sanjuas,H,PRZF976804,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,12/11/2016 20:35,Internet,Infinitum en Paquete,0,0,4,87.26
+111,Carles,Mundi,H,VBUT401726,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,12/11/2016 5:23,Internet,Infinitum en Paquete,0,2,1,87.26
+112,María Angustias,Briso Montiano,M,VMRI197056,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,12/11/2016 3:45,Internet,Infinitum sin Paquete,1,0,4,89.26
+113,César,Usar,H,MOBV586039,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,11/11/2016 15:30,Nube Telmex,Correo Negocio,0,2,4,95.33
+114,María Paz,Zamar,M,WJSD729058,Master/PhD,Ciudad de México,Benito Juárez,Independencia,19.378764,-99.148172,11/11/2016 12:17,Internet,Conectividad WiFi,1,1,3,52.78
+115,José Juan,Auchel,H,JUEZ914357,Secundario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,11/11/2016 6:44,Internet,Infinitum sin Paquete,0,0,0,89.26
+116,Bárbara,Claparols,M,IGND648350,Secundario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,11/11/2016 1:21,Internet,Infinitum Puro Negocio,0,0,4,47.9
+117,Julen,Escotet,H,GEBI619502,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,10/11/2016 13:31,Software,Aspel SAE,1,1,4,82.2
+118,Adriá,López Infantes,H,AUZL062784,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,10/11/2016 3:16,Internet,Conectividad WiFi,0,0,0,52.78
+119,Joaquim,Aldaiturriaga,H,BTHX501238,Universitario,Ciudad de México,Iztacalco,El Rodeo,19.3938331,-99.0854479,9/11/2016 17:07,Internet,Infinitum Puro Negocio,2,0,1,47.9
+120,José Javier,Noll,H,TCNI179450,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,9/11/2016 12:59,Crédito y Equipamiento,Crédito Inbursa,0,1,1,94.97
+121,Juan Luis,Doncheva,H,NPUK341802,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,9/11/2016 11:19,Internet,Infinitum sin Paquete,0,2,1,89.26
+122,Josu,Faner,H,SMQD548176,Otro,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,9/11/2016 11:19,Crédito y Equipamiento,Equipos Multilínea,0,0,0,44.15
+123,Fuensanta,Martín Crespo,M,CJKQ043876,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,9/11/2016 10:24,Internet,Infinitum en Paquete,0,0,4,87.26
+124,Pascual,Sánchez Molero,H,DCAX914203,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,9/11/2016 7:29,Crédito y Equipamiento,Equipos para tu Negocio,1,0,4,98.04
+125,Petra,Valia,M,BLMI852140,Otro,Ciudad de México,Benito Juárez,Independencia,19.378764,-99.148172,8/11/2016 20:32,Internet,Infinitum Puro Negocio,2,0,4,47.9
+126,Fátima,Choudhry,M,IRQD379012,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,8/11/2016 20:19,Internet,Infinitum en Paquete,0,0,4,87.26
+127,Gregorio,Jacquet,H,SUVA125409,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,8/11/2016 19:29,Crédito y Equipamiento,Equipos Multilínea,1,1,1,44.15
+128,Iratxe,Mone,M,MEPI621980,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,8/11/2016 13:22,Internet,Infinitum en Paquete,1,1,4,87.26
+129,María Dolors,Palavecino,M,HDLB169385,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,8/11/2016 10:04,Nube Telmex,Seguridad Internet,0,1,4,47.37
+130,Lorenzo,Beumala,H,HPLK415286,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,8/11/2016 9:42,Internet,Infinitum Puro Negocio,4,0,4,47.9
+131,Gemma,Carta,M,JFRU506739,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,8/11/2016 7:27,Crédito y Equipamiento,Crédito Inbursa,1,1,4,94.97
+132,María Magdalena,De Gonzalo,M,SYAV178960,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,7/11/2016 22:23,Internet,Infinitum Puro Negocio,0,0,4,47.9
+133,Carmelo,Boquer,H,SXHA952718,Secundario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,7/11/2016 21:06,Internet,Infinitum en Paquete,2,2,1,87.26
+134,Carme,Klett,M,LFVO342567,Master/PhD,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,7/11/2016 18:32,Internet,Conectividad WiFi,1,0,1,52.78
+135,Carolina,Bailly,M,XKUB271038,Universitario,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,7/11/2016 17:56,Crédito y Equipamiento,Equipos para tu Negocio,0,0,0,98.04
+136,Trinidad,Lisart,M,NTVU312059,Otro,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,7/11/2016 14:51,Internet,Infinitum en Paquete,2,0,4,87.26
+137,Pedro José,Calcagno,H,RBOX572631,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,7/11/2016 12:25,Internet,Infinitum sin Paquete,1,1,0,89.26
+138,Aurora,Kopp,M,XBTV175920,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,7/11/2016 11:17,Internet,Infinitum sin Paquete,0,1,0,89.26
+139,Carmen María,Rhouni,M,ESQK723615,Otro,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,7/11/2016 1:02,Internet,Infinitum Puro Negocio,2,1,2,47.9
+140,Dolors,Sari,M,XJTV140258,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,6/11/2016 19:51,Internet,Infinitum sin Paquete,2,0,2,89.26
+141,Alfredo,Chiesa,H,OMXA516083,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,6/11/2016 0:28,Software,Aspel NOI,0,0,4,64.77
+142,Guillermo,Sartorius,H,MQNY348961,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,5/11/2016 13:35,Nube Telmex,Nube Telmex,1,2,4,93.83
+143,Carmen Rosa,Atrari,M,BLNH582463,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,5/11/2016 11:58,Software,Aspel SAE,4,1,3,82.2
+144,José Francisco,Haase,H,KCPG078356,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,5/11/2016 10:52,Internet,Infinitum sin Paquete,2,1,1,89.26
+145,Estibaliz,Brook,M,KXRU207384,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,5/11/2016 6:04,Internet,Infinitum Puro Negocio,1,0,0,47.9
+146,Samuel,Bensalem,H,DXYB286359,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,5/11/2016 1:43,Internet,Infinitum en Paquete,2,1,2,87.26
+147,Candelaria,Chakkaf,M,DVCQ740329,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,5/11/2016 1:41,Comunicación,Planes de llamadas/minutos,0,0,2,92.7
+148,María Aranzazu,Roper,M,JEGZ158246,Secundario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,4/11/2016 21:54,Internet,Infinitum en Paquete,2,1,4,87.26
+149,Víctor Manuel,Zouini,H,ADKT041952,Master/PhD,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,4/11/2016 10:16,Internet,Infinitum Puro Negocio,0,1,1,47.9
+150,Martín,Baroudi,H,VGJA753619,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,4/11/2016 9:25,Software,Aspel NOI,1,1,0,64.77
+151,Ascensión,De Fátima,M,KIDJ521398,Otro,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,3/11/2016 21:48,Internet,Infinitum sin Paquete,0,1,4,89.26
+152,María Cinta,Harms,M,XJTV140258,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,3/11/2016 17:36,Internet,Infinitum en Paquete,0,0,1,87.26
+153,María Lourdes,Benabbou,M,ADQU280345,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,3/11/2016 16:49,Internet,Conectividad WiFi,1,2,2,52.78
+154,Asunción,Callaghan,M,WOYE287649,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,3/11/2016 9:43,Internet,Conectividad WiFi,0,2,4,52.78
+155,María Asunción,Ghani,M,JFRU506739,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,3/11/2016 9:08,Nube Telmex,Nube Telmex,0,1,1,93.83
+156,Antoni,Chrifi,H,VRTG423918,Otro,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,3/11/2016 1:31,Crédito y Equipamiento,Equipos para tu Negocio,0,0,0,98.04
+157,Lluis,Benabdallah,H,LHYN876032,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,2/11/2016 17:36,Internet,Conectividad WiFi,0,0,4,52.78
+158,Ismael,Cummins,H,UPQK692853,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,2/11/2016 17:29,Internet,Infinitum Puro Negocio,2,0,1,47.9
+159,Antonio José,Dahhou,H,EQLS943826,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,2/11/2016 15:29,Crédito y Equipamiento,Crédito Inbursa,0,1,2,94.97
+160,Araceli,Akhnati,M,VMGD791382,Secundario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,2/11/2016 2:27,Comunicación,Audioconferencia,1,0,0,51.06
+161,Pere,El Khattab,H,ITCU419587,Secundario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,2/11/2016 1:39,Crédito y Equipamiento,Crédito Inbursa,0,0,1,94.97
+162,Itziar,Cotton,M,YAWG615827,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,1/11/2016 16:30,Internet,Infinitum en Paquete,0,0,4,87.26
+163,Mohammed,Mehdaoui,H,ZBOE150947,Master/PhD,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,1/11/2016 11:40,Internet,Conectividad WiFi,1,0,1,52.78
+164,Emilia,Osazuwa,M,JQPZ219406,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,1/11/2016 10:48,Software,Aspel COI,1,0,4,69.59
+165,Gerard,Adnan,H,TZXR736240,Universitario,Ciudad de México,Iztacalco,El Rodeo,19.3938331,-99.0854479,1/11/2016 5:16,Internet,Infinitum sin Paquete,0,0,1,89.26
+166,Esperanza,Rigby,M,HLJW538120,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,1/11/2016 2:10,Internet,Infinitum sin Paquete,0,2,4,89.26
+167,Ginés,Tounsi,H,HBRG537204,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,31/10/2016 23:55,Internet,Infinitum sin Paquete,0,0,4,89.26
+168,Felisa,Doudou,M,KZUG140862,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,31/10/2016 21:31,Internet,Infinitum en Paquete,1,0,0,87.26
+169,Remedios,El Atifi,M,SILJ198632,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,31/10/2016 07:48,Internet,Infinitum en Paquete,0,0,4,87.26
+170,Eneko,Kiraly,H,WAFZ458130,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,31/10/2016 05:20,Crédito y Equipamiento,Equipos Multilínea,1,0,4,44.15
+171,Pau,Rbib,H,IRJO986137,Master/PhD,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,30/10/2016 14:19,Internet,Infinitum en Paquete,0,1,2,87.26
+172,Luisa,Zota,M,IXCK216837,Secundario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,29/10/2016 18:42,Internet,Infinitum en Paquete,0,0,4,87.26
+173,Francisco Manuel,Costantini,H,NKWQ215603,Otro,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,29/10/2016 17:59,Internet,Infinitum Puro Negocio,2,0,1,47.9
+174,Rafaela,Holder,M,MOIZ251936,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,29/10/2016 13:09,Internet,Infinitum en Paquete,0,0,2,87.26
+175,Francesc,Kravchenko,H,QJMP509431,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,29/10/2016 07:11,Internet,Infinitum sin Paquete,0,0,1,89.26
+176,Maite,Rybak,M,FVZR587024,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,29/10/2016 06:34,Internet,Conectividad WiFi,4,0,4,52.78
+177,Verónica,Afzaal,M,WCOM853027,Universitario,Ciudad de México,Iztacalco,El Rodeo,19.3938331,-99.0854479,29/10/2016 03:38,Internet,Infinitum sin Paquete,0,0,1,89.26
+178,Bartolomé,Chetan,H,HLFS890754,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,28/10/2016 22:30,Internet,Conectividad WiFi,0,0,2,52.78
+179,Miquel,Curea,H,WEHA905218,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,28/10/2016 16:49,Internet,Conectividad WiFi,0,2,1,52.78
+180,José Carlos,Dumea,H,BDOZ605342,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,28/10/2016 15:38,Comunicación,Planes de llamadas/minutos,0,2,1,92.7
+181,María Pino,Gee,M,QIAX839415,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,28/10/2016 15:05,Software,Aspel NOI,0,1,1,64.77
+182,Ane,Girigan,M,RXTI705382,Master/PhD,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,28/10/2016 13:39,Internet,Infinitum Puro Negocio,0,2,4,47.9
+183,Manuel Jesús,Hiticas,H,WPST732198,Master/PhD,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,28/10/2016 11:38,Internet,Conectividad WiFi,1,0,1,52.78
+184,María Rocío,Moufid,M,QVJG281976,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,28/10/2016 08:59,Nube Telmex,Correo Negocio,0,2,1,95.33
+185,Juana María,Usurelu,M,RKUO471826,Master/PhD,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,28/10/2016 03:30,Internet,Infinitum sin Paquete,0,0,3,89.26
+186,María Candelaria,Zhuk,M,WJVM641239,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,27/10/2016 20:01,Crédito y Equipamiento,Equipos Multilínea,0,0,2,44.15
+187,Purificación,Zorila,M,ZKQI290375,Master/PhD,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,27/10/2016 04:03,Internet,Infinitum en Paquete,0,0,4,87.26
+188,Josep María,Bindang,H,QTPY938162,Otro,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,26/10/2016 15:05,Nube Telmex,Nube Telmex,0,2,4,93.83
+189,Josefina,Marsilla,M,DPFI380295,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,25/10/2016 20:57,Nube Telmex,Respaldo de Información,1,0,2,49.92
+190,Gorka,Fenandez,H,OWGZ653207,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,25/10/2016 16:44,Internet,Infinitum en Paquete,0,0,2,87.26
+191,Magdalena,Bargas,M,SXJB641395,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,25/10/2016 04:41,Internet,Infinitum Puro Negocio,0,0,0,47.9
+192,María Nieves,Cañardo,M,TDLW429673,Otro,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,25/10/2016 04:39,Internet,Infinitum sin Paquete,1,0,2,89.26
+193,Eva María,Hilinger,M,BWCA451098,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,25/10/2016 03:52,Internet,Infinitum sin Paquete,0,0,4,89.26
+194,Ander,Ferradal,H,XYEH945781,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,24/10/2016 18:58,Internet,Conectividad WiFi,1,0,0,52.78
+195,Domingo,Izar de la Fuente,H,MXVK479608,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,24/10/2016 17:15,Internet,Conectividad WiFi,1,2,1,52.78
+196,Milagros,Dumpierrez,M,PZIN732180,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,24/10/2016 16:07,Internet,Infinitum en Paquete,1,0,1,87.26
+197,Xabier,Ciuraneta,H,OBRC380912,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,24/10/2016 13:28,Crédito y Equipamiento,Crédito Inbursa,0,0,4,94.97
+198,Leire,Chisaguano,M,JRXC570312,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,24/10/2016 12:26,Crédito y Equipamiento,Equipos Multilínea,0,1,4,44.15
+199,Unai,Cabanzon,H,IZTW467893,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,24/10/2016 00:04,Nube Telmex,Seguridad Internet,0,0,2,47.37
+200,María Luz,Sánchez Roldán,M,RIQU102346,Master/PhD,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,23/10/2016 17:58,Internet,Infinitum en Paquete,0,2,2,87.26
+201,Gabriel,Lomero,H,YMDB421870,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,23/10/2016 09:49,Software,Aspel NOI,0,0,4,64.77
+202,Begoña,Santaolaya,M,DOMA261073,Otro,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,23/10/2016 06:52,Internet,Infinitum en Paquete,0,1,4,87.26
+203,Noelia,Dablanca,M,BVZQ509683,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,22/10/2016 13:21,Crédito y Equipamiento,Equipos Multilínea,0,0,4,44.15
+204,María Antonia,Loriz,M,DQZR580137,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,22/10/2016 07:11,Internet,Conectividad WiFi,0,2,0,52.78
+205,Amaia,Uriaguereca,M,BTAJ869123,Universitario,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,22/10/2016 05:06,Internet,Conectividad WiFi,0,1,4,52.78
+206,Ainhoa,Luquez,M,ZYSJ793120,Otro,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,21/10/2016 20:42,Internet,Infinitum sin Paquete,0,1,4,89.26
+207,Nerea,Tigse,M,FXBM526498,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,21/10/2016 16:25,Internet,Infinitum en Paquete,0,0,0,87.26
+208,Jesús María,De Solis,H,FWLD728630,Secundario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,21/10/2016 15:24,Internet,Infinitum en Paquete,0,0,0,87.26
+209,María Victoria,Pedriel,M,NFZJ793514,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,21/10/2016 12:22,Crédito y Equipamiento,Equipos Multilínea,0,0,2,44.15
+210,Cristóbal,Ormaeche,H,GXCZ482153,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,21/10/2016 03:33,Nube Telmex,Correo Negocio,0,0,4,95.33
+211,Iñaki,Tecedor,H,FQRN915378,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,20/10/2016 20:01,Internet,Infinitum Puro Negocio,0,2,4,47.9
+212,José Vicente,Goitiz,H,KNVJ138720,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,20/10/2016 13:47,Internet,Conectividad WiFi,0,2,4,52.78
+213,María Amparo,Osua,M,UDWF073196,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,20/10/2016 09:51,Software,Aspel SAE,0,1,1,82.2
+214,Oriol,Ramells,H,XOQS610859,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,19/10/2016 17:34,Crédito y Equipamiento,Equipos Multilínea,0,0,1,44.15
+215,Juan Francisco,Balmisa,H,HRZP532180,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,19/10/2016 04:25,Comunicación,Audioconferencia,0,2,1,51.06
+216,José Ignacio,Jimenes,H,QXYB645809,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,19/10/2016 03:43,Software,Aspel NOI,1,0,4,64.77
+217,Iker,Portalatin,H,YTMF157406,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,19/10/2016 03:21,Crédito y Equipamiento,Equipos Multilínea,0,0,1,44.15
+218,Asier,Saenz de Navarrete,H,TLYD985241,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,19/10/2016 00:27,Nube Telmex,Respaldo de Información,1,4,4,49.92
+219,Jon,Tardido,H,OCIT301789,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,18/10/2016 05:07,Software,Aspel SAE,1,0,0,82.2
+220,Gonzalo,Bellvehi,H,IELS208564,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,17/10/2016 22:57,Internet,Conectividad WiFi,0,0,0,52.78
+221,Paloma,Rumbao,M,SMEC169085,Secundario,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,17/10/2016 19:11,Internet,Conectividad WiFi,1,1,4,52.78
+222,María Elena,Eguzquiza,M,EBSG619380,Universitario,Ciudad de México,Benito Juárez,Independencia,19.378764,-99.148172,17/10/2016 14:30,Internet,Infinitum sin Paquete,0,1,1,89.26
+223,Agustín,Fogues,H,BHQV981307,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,16/10/2016 19:41,Internet,Conectividad WiFi,0,0,4,52.78
+224,Iñigo,Zorrero,H,TAJR865793,Otro,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,16/10/2016 17:40,Internet,Infinitum Puro Negocio,0,0,2,47.9
+225,Sebastián,Cartuche,H,NXLC852791,Master/PhD,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,16/10/2016 09:22,Internet,Infinitum sin Paquete,0,0,1,89.26
+226,Alex,Manota,H,YACH064253,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,15/10/2016 19:22,Internet,Infinitum Puro Negocio,4,0,0,47.9
+227,Mariano,Viñales,H,IWGC497216,Otro,Ciudad de México,Iztacalco,Barrio San Miguel,19.3906327,-99.120818,15/10/2016 11:26,Internet,Infinitum Puro Negocio,0,1,4,47.9
+228,Consuelo,Muset,M,MUAZ219607,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,15/10/2016 01:33,Software,Aspel CAJA,0,1,0,91.72
+229,María Begoña,Albite,M,YOJB630497,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,14/10/2016 15:10,Internet,Conectividad WiFi,0,0,1,52.78
+230,Vicenta,Cuneo,M,IJQY978506,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,14/10/2016 08:31,Crédito y Equipamiento,Equipos para tu Negocio,1,0,1,98.04
+231,José Miguel,Jumillas,H,IVCW817450,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,13/10/2016 19:14,Software,Aspel COI,1,0,1,69.59
+232,Marcos,Díaz Delgado,H,JLBP045892,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,13/10/2016 11:27,Internet,Infinitum Puro Negocio,1,0,3,47.9
+233,Aitor,Cachadiña,H,NHVE284591,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,13/10/2016 05:12,Internet,Infinitum en Paquete,0,1,1,87.26
+234,Ana Belén,De las Muelas,M,WUFA506298,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,12/10/2016 22:31,Comunicación,Audioconferencia,2,0,1,51.06
+235,Mikel,Escolies,H,CJKT942863,Secundario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,12/10/2016 16:44,Nube Telmex,Página Web,0,0,1,69.79
+236,Sergi,Fontecilla,H,LEJB943615,Secundario,Ciudad de México,Iztacalco,Barrio San Miguel,19.3906327,-99.120818,12/10/2016 14:52,Internet,Infinitum Puro Negocio,0,0,0,47.9
+237,Mireia,Rebordosa,M,RILO584130,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,12/10/2016 0:48,Internet,Infinitum en Paquete,0,0,4,87.26
+238,Antonio Jesús,Rife,H,ZHXT253164,Otro,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,11/10/2016 15:56,Internet,Infinitum en Paquete,0,1,4,87.26
+239,Félix,Pucha,H,QHSY506283,Master/PhD,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,11/10/2016 12:26,Internet,Infinitum sin Paquete,1,0,4,89.26
+240,Tomas,Balzola,H,ZRND739102,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,11/10/2016 10:48,Crédito y Equipamiento,Equipos Multilínea,2,0,2,44.15
+241,Laia,Veiguela,M,HUOZ948120,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,11/10/2016 8:44,Crédito y Equipamiento,Crédito Inbursa,0,2,1,94.97
+242,Julio,Narciandi,H,KFNA240756,Otro,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,11/10/2016 6:37,Internet,Infinitum en Paquete,1,1,2,87.26
+243,Esther,Ernesto,M,PXSB194608,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,11/10/2016 6:23,Internet,Infinitum Puro Negocio,0,0,1,47.9
+244,María Mercedes,Neria,M,YFMC572198,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,11/10/2016 6:21,Internet,Conectividad WiFi,2,2,4,52.78
+245,María Rosa,Marne,M,PXFU713528,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,11/10/2016 6:04,Nube Telmex,Página Web,0,0,2,69.79
+246,María Concepción,Piulachs,M,YHDO541739,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,11/10/2016 1:20,Internet,Infinitum en Paquete,0,0,1,87.26
+247,Isabel María,Sánchez Dehesa,M,GDJC679031,Universitario,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,10/10/2016 4:21,Internet,Conectividad WiFi,1,2,1,52.78
+248,José Ramón,Comojo,H,OAFR941527,Secundario,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,9/10/2016 15:48,Internet,Infinitum Puro Negocio,1,0,4,47.9
+249,Jaume,Fambuena,H,FNGE730859,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,9/10/2016 15:40,Software,Aspel Facture,0,1,4,87.96
+250,Eva,Mingolla,M,QBZI428157,Master/PhD,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,9/10/2016 8:36,Internet,Infinitum Puro Negocio,0,0,4,47.9
+251,Amparo,Barquier,M,TJXF582109,Master/PhD,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,9/10/2016 6:25,Internet,Infinitum sin Paquete,0,0,1,89.26
+252,Ana Isabel,De Sancha,M,BACR487015,Secundario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,9/10/2016 2:52,Internet,Conectividad WiFi,1,0,4,52.78
+253,Xavier,Monio,H,SBIR730641,Universitario,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,9/10/2016 2:44,Nube Telmex,Nube Telmex,0,0,2,93.83
+254,Albert,Señoret,H,LCIW742165,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,9/10/2016 0:52,Internet,Infinitum en Paquete,1,0,4,87.26
+255,Catalina,Membibre,M,HFKA104973,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,9/10/2016 0:50,Crédito y Equipamiento,Crédito Inbursa,0,2,4,94.97
+256,Margarita,Sobrados,M,KGYW715046,Otro,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,8/10/2016 23:11,Internet,Infinitum Puro Negocio,0,0,1,47.9
+257,Mohamed,Villeta,H,AWMS942013,Master/PhD,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,8/10/2016 12:53,Internet,Conectividad WiFi,0,0,2,52.78
+258,Anna,Ladevesa,M,RVOQ069475,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,8/10/2016 9:43,Crédito y Equipamiento,Crédito Inbursa,2,1,4,94.97
+259,Emilio,Gómez Cornejo,H,KFNA240756,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,8/10/2016 7:28,Nube Telmex,Nube Telmex,0,0,4,93.83
+260,Alba,Martínez Pardo,M,SVJT078423,Master/PhD,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,7/10/2016 22:12,Nube Telmex,Activa tus herramientas,1,1,4,44.99
+261,Natalia,Yustres,M,ZWEH807432,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,7/10/2016 7:37,Comunicación,Planes de llamadas/minutos,1,0,0,92.7
+262,María Rosario,Hinestroza,M,JVIU269357,Secundario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,7/10/2016 7:34,Internet,Conectividad WiFi,0,1,0,52.78
+263,Julián,Lebaniegos,H,NZPH732194,Otro,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,7/10/2016 6:53,Internet,Infinitum sin Paquete,1,4,4,89.26
+264,Ángeles,Cruzate,M,KYXA481309,Otro,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,7/10/2016 1:10,Internet,Conectividad WiFi,0,2,4,52.78
+265,Mario,Migueltorena,H,ONAQ045183,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,6/10/2016 21:40,Internet,Infinitum sin Paquete,1,2,0,89.26
+266,Ricardo,Larren,H,MCKG038756,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,6/10/2016 4:15,Internet,Conectividad WiFi,0,2,4,52.78
+267,María Josefa,Dicenta,M,OLVG840612,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,5/10/2016 17:03,Internet,Infinitum Puro Negocio,0,0,1,47.9
+268,Josep,Leorza,H,TRYI370125,Secundario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,5/10/2016 16:49,Internet,Conectividad WiFi,0,0,4,52.78
+269,Yolanda,Gaytan de Ayala,M,IMLO782054,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,5/10/2016 16:32,Internet,Infinitum sin Paquete,1,0,0,89.26
+270,Marina,Hugo,M,JSCV439120,Universitario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,5/10/2016 8:22,Internet,Infinitum Puro Negocio,0,0,1,47.9
+271,Marc,Marion,H,IPRW910857,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,5/10/2016 8:03,Internet,Infinitum en Paquete,0,1,0,87.26
+272,Joan,Clariso,H,IUSC328471,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,5/10/2016 7:21,Internet,Infinitum Puro Negocio,0,0,4,47.9
+273,Alfonso,Solinis,H,UTGI634589,Master/PhD,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,4/10/2016 20:46,Internet,Infinitum Puro Negocio,0,0,4,47.9
+274,Ignacio,Dacruz,H,IYDT469301,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,4/10/2016 20:38,Crédito y Equipamiento,Equipos Multilínea,0,0,4,44.15
+275,Inmaculada,Muñoz de Arenillas,M,BTED710456,Secundario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,4/10/2016 8:30,Crédito y Equipamiento,Equipos Multilínea,0,0,1,44.15
+276,Andrea,Ochandio,M,EZDU892017,Otro,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,4/10/2016 5:10,Internet,Infinitum sin Paquete,0,0,4,89.26
+277,Sonia,Olaortua,M,KVQO356210,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,3/10/2016 22:03,Nube Telmex,Nube Telmex,2,0,4,93.83
+278,Sandra,Tos,M,TLJI658304,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,3/10/2016 20:29,Internet,Conectividad WiFi,0,1,4,52.78
+279,Ángela,Chenel,M,YSBZ206918,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,3/10/2016 18:42,Crédito y Equipamiento,Equipos para tu Negocio,0,0,0,98.04
+280,Jaime,Murgado,H,WMVP094372,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,3/10/2016 9:46,Internet,Infinitum Puro Negocio,0,1,4,47.9
+281,Francisco José,Des,H,XNLT563712,Otro,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,3/10/2016 9:01,Software,Aspel COI,1,0,4,69.59
+282,Alicia,Joaquim,M,ADTO048761,Master/PhD,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,3/10/2016 6:17,Internet,Infinitum Puro Negocio,0,1,0,47.9
+283,Irene,Buri,M,ZXPB427803,Secundario,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,2/10/2016 23:02,Internet,Conectividad WiFi,0,2,0,52.78
+284,María Mar,Creix,M,CLKJ654837,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,2/10/2016 16:45,Crédito y Equipamiento,Equipos para tu Negocio,0,0,4,98.04
+285,Susana,Leranoz,M,GMBN293705,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,1/10/2016 22:12,Internet,Infinitum Puro Negocio,0,0,0,47.9
+286,Juan Manuel,Raris,H,WIGM596187,Otro,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,1/10/2016 21:19,Internet,Infinitum sin Paquete,2,1,2,89.26
+287,Salvador,Gallego de Lerma,H,XUFV639025,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,1/10/2016 7:59,Internet,Infinitum Puro Negocio,1,1,4,47.9
+288,Víctor,Rihuete,H,UNQK160354,Secundario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,30/09/2016 16:30,Internet,Infinitum Puro Negocio,0,0,0,47.9
+289,Rocío,Ansaldo,M,YTPK395470,Universitario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,29/09/2016 20:33,Internet,Conectividad WiFi,0,1,4,52.78
+290,Jordi,Eloy,H,EZIK128435,Universitario,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,29/09/2016 20:29,Comunicación,Audioconferencia,0,0,1,51.06
+291,Mónica,Barreu,M,AHYD708615,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,29/09/2016 05:09,Crédito y Equipamiento,Equipos para tu Negocio,0,0,2,98.04
+292,Roberto,Basurko,H,LVCA934725,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,29/09/2016 01:12,Software,Aspel CAJA,0,0,1,91.72
+293,Nuria,Loizate,M,OVTW197326,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,29/09/2016 00:27,Crédito y Equipamiento,Equipos Multilínea,1,1,0,44.15
+294,Eduardo,Herrasti,H,ULYV812739,Master/PhD,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,28/09/2016 21:01,Internet,Infinitum Puro Negocio,2,0,0,47.9
+295,Julia,Noto,M,FNBQ129485,Secundario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,28/09/2016 16:15,Internet,Conectividad WiFi,0,1,4,52.78
+296,Encarnación,Rucabado,M,LKCD714908,Otro,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,28/09/2016 15:55,Nube Telmex,Página Web,0,2,4,69.79
+297,Montserrat,Francisca,M,BZAM241967,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,28/09/2016 15:53,Internet,Infinitum en Paquete,1,0,1,87.26
+298,Rubén,Rucio,H,FWEO068973,Master/PhD,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,28/09/2016 09:34,Internet,Conectividad WiFi,0,2,3,52.78
+299,Rosa,Vasques,M,AQGF762135,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,28/09/2016 07:46,Nube Telmex,Nube Telmex,0,1,0,93.83
+300,Vicente,Ruiz Olivares,H,CQEY451283,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,28/09/2016 06:17,Internet,Infinitum sin Paquete,1,0,1,89.26
+301,Patricia,Bean,M,NFGQ206819,Otro,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,27/09/2016 21:54,Internet,Infinitum Puro Negocio,1,0,4,47.9
+302,Óscar,Rotea,H,UEYP207436,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,27/09/2016 11:07,Internet,Infinitum Puro Negocio,0,0,4,47.9
+303,Joaquín,Suárez Varela,H,SZCD461872,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,26/09/2016 15:32,Internet,Infinitum Puro Negocio,0,1,4,47.9
+304,Silvia,Vacca,M,YZHK024639,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,26/09/2016 05:39,Crédito y Equipamiento,Equipos para tu Negocio,0,0,1,98.04
+305,Santiago,Ahechu,H,XITB301827,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,26/09/2016 05:01,Internet,Conectividad WiFi,0,0,2,52.78
+306,Iván,Gori,H,JIWB216043,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,26/09/2016 04:06,Nube Telmex,Nube Telmex,0,0,4,93.83
+307,Beatriz,Gagliardi,M,FLOA241867,Secundario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,26/09/2016 00:44,Internet,Infinitum en Paquete,0,0,1,87.26
+308,Rosario,Ng,M,HBPF471953,Master/PhD,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,25/09/2016 23:32,Nube Telmex,Correo Negocio,0,0,0,95.33
+309,Juan Antonio,Sheridan,H,JKVP694710,Secundario,Ciudad de México,Iztacalco,Santa Anita,19.4041255,-99.1206396,25/09/2016 18:07,Internet,Infinitum sin Paquete,0,0,4,89.26
+310,Adrián,Romer,H,QEHM329716,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,25/09/2016 00:26,Internet,Infinitum en Paquete,0,0,2,87.26
+311,Diego,Sarsri,H,LQTU879604,Universitario,Ciudad de México,Benito Juárez,Villa de Cortés,19.3874986,-99.1389541,24/09/2016 20:43,Crédito y Equipamiento,Crédito Inbursa,0,1,4,94.97
+312,Ramón,Decker,H,APWI694305,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,24/09/2016 20:11,Comunicación,Planes de llamadas/minutos,0,0,4,92.7
+313,Andrés,Hani,H,UNQK160354,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,24/09/2016 14:50,Internet,Infinitum sin Paquete,0,0,0,89.26
+314,Álvaro,Logan,H,XFTI607382,Otro,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,24/09/2016 14:02,Software,Aspel Facture,1,0,4,87.96
+315,Raúl,Magrach,H,JACW120695,Universitario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,24/09/2016 04:11,Comunicación,Audioconferencia,2,0,2,51.06
+316,Juana,Zeller,M,JIXU029867,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,24/09/2016 04:06,Internet,Infinitum Puro Negocio,0,2,0,47.9
+317,Paula,Seifert,M,KRDI851463,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,23/09/2016 23:11,Crédito y Equipamiento,Equipos para tu Negocio,0,1,0,98.04
+318,María Jesús,Bacha,M,MXAE902741,Otro,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,23/09/2016 20:01,Internet,Infinitum sin Paquete,0,0,1,89.26
+319,Sara,Ashby,M,SCXD902385,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,23/09/2016 18:16,Internet,Infinitum sin Paquete,0,0,0,89.26
+320,Enrique,Darraz,H,SRXT268019,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,23/09/2016 17:20,Crédito y Equipamiento,Crédito Inbursa,1,0,2,94.97
+321,Teresa,Di Pietro,M,DJBS385201,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,23/09/2016 15:56,Software,Aspel CAJA,0,0,4,91.72
+322,Raquel,Nali,M,CSVF057438,Otro,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,23/09/2016 15:53,Internet,Conectividad WiFi,0,0,0,52.78
+323,Manuela,Erradi,M,ICTP185293,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,23/09/2016 01:28,Crédito y Equipamiento,Crédito Inbursa,0,0,1,94.97
+324,Rosa María,Wieczorek,M,NGWH638709,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,22/09/2016 20:32,Internet,Infinitum Puro Negocio,1,0,0,47.9
+325,Lucia,Ghazal,M,AYDX428691,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,22/09/2016 19:01,Internet,Infinitum en Paquete,0,0,4,87.26
+326,Elena,Ivova,M,BYVL286543,Master/PhD,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,22/09/2016 15:59,Internet,Infinitum en Paquete,0,1,4,87.26
+327,Juan José,Akhdim,H,YDFN782594,Otro,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,22/09/2016 06:59,Nube Telmex,Correo Negocio,0,1,4,95.33
+328,Mercedes,Karkach,M,YEAJ685273,Secundario,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,21/09/2016 20:40,Internet,Infinitum en Paquete,0,1,2,87.26
+329,Juan Carlos,Bouzalmat,H,MDZK389402,Secundario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,21/09/2016 19:50,Internet,Infinitum sin Paquete,0,0,2,89.26
+330,Concepción,Bourne,M,ECUD932408,Master/PhD,Ciudad de México,Coyoacán,Avante,19.3288318,-99.1331631,21/09/2016 12:35,Internet,Infinitum en Paquete,1,0,2,87.26
+331,María Luisa,Sabar,M,EFUO289513,Otro,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,21/09/2016 04:44,Nube Telmex,Respaldo de Información,0,1,2,49.92
+332,Pilar,Pettersen,M,PRWN582096,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,21/09/2016 03:57,Internet,Infinitum Puro Negocio,0,1,0,47.9
+333,Alberto,Azhir,H,WSIQ654201,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,20/09/2016 18:09,Internet,Infinitum en Paquete,0,1,2,87.26
+334,Pablo,Head,H,YFMC572198,Master/PhD,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,20/09/2016 05:42,Internet,Conectividad WiFi,0,1,4,52.78
+335,Jorge,Carstea,H,UJHR721356,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,19/09/2016 23:21,Internet,Infinitum en Paquete,0,0,1,87.26
+336,Sergio,Jaafar,H,WCNA608724,Otro,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,19/09/2016 20:04,Nube Telmex,Correo Negocio,1,0,4,95.33
+337,María José,Rupa,M,GIXJ204896,Secundario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,19/09/2016 12:33,Internet,Infinitum sin Paquete,0,1,0,89.26
+338,María Isabel,Mbodji,M,AFNM874603,Secundario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,19/09/2016 11:16,Internet,Conectividad WiFi,1,0,1,52.78
+339,Marta,Birte,M,JXSQ410732,Master/PhD,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,19/09/2016 03:45,Software,Aspel Facture,0,1,4,87.96
+340,Luis,Boicu,H,FLUY564213,Universitario,Ciudad de México,Iztapalapa,Central de Abasto,19.3834095,-99.0900234,18/09/2016 19:22,Internet,Infinitum Puro Negocio,0,0,1,47.9
+341,Fernando,Boychuk,H,STXD819347,Universitario,Ciudad de México,Iztacalco,El Rodeo,19.3938331,-99.0854479,18/09/2016 19:11,Internet,Conectividad WiFi,2,0,1,52.78
+342,Alejandro,Cirlan,H,ZKUL831542,Universitario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,18/09/2016 15:12,Internet,Infinitum en Paquete,0,0,0,87.26
+343,José María,Iftode,H,FTJQ143276,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,18/09/2016 09:29,Internet,Infinitum sin Paquete,0,0,4,89.26
+344,Miguel Ángel,Isfan,H,UCOF638425,Universitario,Ciudad de México,Iztapalapa,Los Picos,19.3796033,-99.1048072,18/09/2016 08:53,Internet,Infinitum sin Paquete,2,2,2,89.26
+345,Dolores,Lovin,M,TKEL247965,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,18/09/2016 02:51,Internet,Infinitum sin Paquete,1,0,0,89.26
+346,Cristina,Miculaiciuc,M,RTWF361284,Universitario,Ciudad de México,Iztacalco,El Rodeo,19.3938331,-99.0854479,17/09/2016 17:25,Internet,Infinitum sin Paquete,0,0,2,89.26
+347,Antonia,Pletea,M,CDMP018372,Master/PhD,Ciudad de México,Iztacalco,El Rodeo,19.3938331,-99.0854479,17/09/2016 14:52,Internet,Infinitum Puro Negocio,0,2,0,47.9
+348,María Ángeles,Torqui,M,VQYP821695,Secundario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,17/09/2016 02:38,Nube Telmex,Nube Telmex,2,1,4,93.83
+349,Ángel,De Medina,H,KGJO647820,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,16/09/2016 18:23,Internet,Infinitum Puro Negocio,2,0,2,47.9
+350,Francisca,Persiva,M,EILA594032,Otro,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,16/09/2016 15:58,Internet,Conectividad WiFi,0,0,2,52.78
+351,Laura,De Peña,M,UQPL087216,Otro,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,16/09/2016 15:19,Internet,Infinitum Puro Negocio,0,0,4,47.9
+352,José Manuel,Maseras,H,JTNH061325,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,16/09/2016 14:30,Internet,Conectividad WiFi,0,2,4,52.78
+353,Pedro,Garramiola,H,ARHT423869,Secundario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,16/09/2016 14:01,Internet,Infinitum en Paquete,0,1,3,87.26
+354,Rafael,Ontalba,H,IEZD487902,Universitario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,16/09/2016 06:18,Crédito y Equipamiento,Crédito Inbursa,0,0,4,94.97
+355,Ana,Alcami,M,IRJO986137,Universitario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,15/09/2016 15:38,Internet,Infinitum Puro Negocio,0,0,2,47.9
+356,María Teresa,Bergon,M,CUFR124798,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,15/09/2016 10:31,Software,Aspel COI,0,1,4,69.59
+357,Miguel,Fuentecilla,H,TJUD325041,Universitario,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,15/09/2016 01:39,Internet,Conectividad WiFi,1,0,0,52.78
+358,Daniel,Taramona,H,GPJK593476,Universitario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,14/09/2016 23:20,Internet,Infinitum sin Paquete,1,2,4,89.26
+359,María Pilar,Hermosell,M,FURI765243,Universitario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,14/09/2016 17:40,Crédito y Equipamiento,Equipos para tu Negocio,0,2,0,98.04
+360,María Dolores,Laudo,M,PGAY350724,Otro,Ciudad de México,Benito Juárez,Del Lago,19.3781464,-99.1411184,14/09/2016 14:33,Internet,Infinitum Puro Negocio,0,0,2,47.9
+361,Carlos,Sannicolas,H,SJFH341096,Universitario,Ciudad de México,Álvaro Obregón,Bellavista,19.3972335,-99.1933664,14/09/2016 10:58,Internet,Infinitum sin Paquete,0,0,4,89.26
+362,Ana María,Llecha,M,FCAU627439,Universitario,Ciudad de México,Iztapalapa,Buenavista,19.327198,-99.02894,14/09/2016 09:59,Internet,Conectividad WiFi,1,0,0,52.78
+363,Francisco Javier,Maguregi,H,XGPD310475,Master/PhD,Ciudad de México,Iztacalco,Barrio San Miguel,19.3906327,-99.120818,13/09/2016 22:25,Internet,Conectividad WiFi,0,2,4,52.78
+364,Javier,Guadamuro,H,RZMB206835,Secundario,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,13/09/2016 21:06,Internet,Infinitum Puro Negocio,0,0,1,47.9
+365,Jesús,Olloquiegui,H,QWDV084317,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,13/09/2016 19:44,Internet,Infinitum Puro Negocio,0,0,0,47.9
+366,Isabel,Soutiño,M,RNFQ419587,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,13/09/2016 08:02,Internet,Conectividad WiFi,0,1,1,52.78
+367,José Luis,López de Zubiria,H,SURO947103,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,13/09/2016 03:35,Internet,Infinitum sin Paquete,0,0,4,89.26
+368,José Antonio,Ortiz de Mendivil,H,LVCF895042,Secundario,Ciudad de México,Álvaro Obregón,La Cascada,19.3695105,-99.1990777,12/9/2016 18:00,Software,Aspel Facture,0,1,4,87.96
+369,Josefa,Fargues,M,RTBX972840,Universitario,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,12/9/2016 11:50,Internet,Conectividad WiFi,0,4,4,52.78
+370,David,Josende,H,HJLT362018,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,11/9/2016 21:15,Software,Aspel SAE,1,0,0,82.2
+371,Juan,Valladar,H,JYLW047652,Master/PhD,Ciudad de México,Coyoacán,El Reloj,19.3174026,-99.1407725,11/9/2016 16:06,Comunicación,Planes de llamadas/minutos,0,2,4,92.7
+372,Carmen,Beis,M,FRIY186024,Otro,Ciudad de México,Coyoacán,Xotepingo,19.329186,-99.1407725,10/9/2016 19:30,Internet,Infinitum sin Paquete,0,0,1,89.26
+373,Francisco,Corullon,H,QNYK417038,Universitario,Ciudad de México,Álvaro Obregón,Florida,19.3559202,-99.1802147,10/9/2016 13:39,Internet,Infinitum sin Paquete,0,0,4,89.26
+374,Manuel,Lairado,H,FEKC419078,Secundario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,10/9/2016 13:39,Internet,Infinitum Puro Negocio,2,0,1,47.9
+375,María,Llauro,M,BRKM861945,Universitario,Ciudad de México,Álvaro Obregón,Real del Monte,19.3956898,-99.20202,10/9/2016 5:14,Internet,Infinitum Puro Negocio,0,0,4,47.9
+376,María Carmen,Messeguer,M,TVLH269810,Universitario,Ciudad de México,Iztapalapa,Banjada,19.3632737,-99.1366219,10/9/2016 4:22,Nube Telmex,Seguridad Internet,0,2,2,47.37
+377,José,Miquelarena,H,DUVE580269,Universitario,Ciudad de México,Coyoacán,Campestre Churubusco,19.3434226,-99.1359301,10/9/2016 0:01,Internet,Conectividad WiFi,0,0,0,52.78
+378,Antonio,Pacífico,H,RYKB716394,Master/PhD,Ciudad de México,Benito Juárez,San Juan,19.3785056,-99.1850598,9/9/2016 19:54,Internet,Infinitum sin Paquete,0,1,0,89.26
